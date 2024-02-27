@@ -6,13 +6,13 @@ Xiang Liu undertook the critical task of cleaning and preparing the data for ana
 
 
 
-Yifan Fan (25% workload)
+Yifan Fan (workload 25%)
 
 Yifan Fan specializes in text mining, focusing on processing review text to extract meaningful insights. This involves converting all review text to lowercase, removing punctuation, special characters and irrelevant numbers, and then tagging the cleaned text. Yifan's expertise was crucial in vectorizing the text data, a step that significantly improved the quality of the dataset we used for further analysis. She also creatively uses word cloud visualizations to represent our findings, making the data more accessible and understandable. These word clouds highlight common terms found in reviews, revealing the positive aspects of the Boston guest experience.
 
 
 
-Jinke Han (25% workload)
+Jinke Han (workload 25%)
 
 Jinke Han's responsibilities focus on conducting topic analysis using Latent Dirichlet Allocation (LDA) models and evaluating the model's performance. By applying the gensim library, Jinke extracted key topics such as service quality and location from user reviews to gain in-depth insights into what guests value most. She carefully trained the LDA model, tuning it to find the optimal number of topics that balances coherence and complexity. Jinke’s analytical skills were critical in interpreting the model’s results, making a significant contribution to our understanding of thematic structure in Airbnb reviews.
 
